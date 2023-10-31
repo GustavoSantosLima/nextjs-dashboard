@@ -1,4 +1,8 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  images: {
+    domains: ["nextjs-dashboard-coral-omega.vercel.app"]
+  }
+};
 
 module.exports = nextConfig;
