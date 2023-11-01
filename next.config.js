@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ["localhost", "vercel.com", "vercel.app"]
+    domains: ["localhost", "https://nextjs-dashboard-coral-omega.vercel.app", "vercel.app"]
   }
 };
 
